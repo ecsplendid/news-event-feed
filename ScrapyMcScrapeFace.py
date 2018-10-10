@@ -1,4 +1,4 @@
-#Horrible quickly written jet-lagged code here. Sorry for all the loops and imperative code
+#Horrible quickly written jet-lagged code here. Sorry for all the loops, fantastically named variables and imperative code
 
 import requests
 from bs4 import BeautifulSoup
