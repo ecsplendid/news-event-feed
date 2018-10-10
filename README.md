@@ -23,7 +23,7 @@ Use
 same event articles vectors as positive exampels
 generate negative examples.
 
-##Model
+## Model
 
 
 
